@@ -1,0 +1,15 @@
+.header{
+
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-left:25%;
+    background-color:palevioletred;
+    width: 50%;
+    height: 100px;
+    padding-top: 40px;
+    box-shadow: 0 14px 20px palevioletred;
+
+}

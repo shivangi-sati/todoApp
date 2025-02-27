@@ -1,0 +1,25 @@
+.form{
+    margin-left: 40%;
+    margin-top: 10%;
+    box-shadow: 0px 5px 9px 0px palevioletred;
+    background-color:white;
+    height: 50px;
+    width: 400px;
+    display: flex;
+    
+}
+.input{
+    border:none;    
+    height: 50px;
+    width: 400px;}
+.input:focus{
+    outline: none;
+}
+.button{
+    background-color: palevioletred;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    
+}

@@ -1,0 +1,13 @@
+
+.div{
+    display: block;
+    margin-top: 10px;
+}
+.button{
+    display: inline;
+    float: right;
+
+}
+.completed{
+text-decoration: line-through;
+}

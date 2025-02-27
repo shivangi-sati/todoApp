@@ -1,0 +1,8 @@
+.todoslist{
+    width: 40%;
+    height: auto;
+    position: absolute;
+    top:70%;
+    left: 35%;
+    box-shadow: 0 14px 20px palevioletred;
+}
