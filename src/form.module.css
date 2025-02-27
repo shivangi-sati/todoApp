@@ -1,7 +1,7 @@
 .form{
     margin-left: 40%;
     margin-top: 10%;
-    box-shadow: 0px 5px 9px 0px palevioletred;
+    box-shadow: 0px 5px 9px 0px white;
     background-color:white;
     height: 50px;
     width: 400px;
@@ -16,10 +16,10 @@
     outline: none;
 }
 .button{
-    background-color: palevioletred;
+    background-color:#F5F5F7;
     height: 50px;
-    border: none;
+    border:none;
     cursor: pointer;
-    color: white;
+    color: gray;
     
 }

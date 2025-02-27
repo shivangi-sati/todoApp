@@ -2,10 +2,13 @@
 .div{
     display: block;
     margin-top: 10px;
+    color: #52575D;
 }
 .button{
     display: inline;
     float: right;
+    background-color: #F5F5F7;
+    border: none;
 
 }
 .completed{
